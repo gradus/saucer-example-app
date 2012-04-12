@@ -1,0 +1,15 @@
+{
+  "author": "Kris Windham <kriswindham@gmail.com>",
+  "name": "saucer-test",
+  "description": "Saucer Test",
+  "version": "0.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "saucer": "git://github.com/gradus/saucer"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
